@@ -1,0 +1,45 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-11-20 02:24+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/TurbinaController.php:57;82
+msgid "Turbina guardada."
+msgstr ""
+
+#: Controller/TurbinaController.php:61;86
+msgid "No se pudo guardar la informacion de la turbina, intente nuevamente."
+msgstr ""
+
+#: Controller/TurbinaController.php:104
+msgid "Turbina eliminada."
+msgstr ""
+
+#: Controller/TurbinaController.php:106
+msgid "No se pudo eliminar la turbina, intente nuevamente."
+msgstr ""
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr ""
+
+#: Template/Turbina/add.ctp:6
+#: Template/Turbina/edit.ctp:6
+msgid "Guardar"
+msgstr ""
+
