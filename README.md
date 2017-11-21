@@ -1,6 +1,6 @@
 # ABM de Turbinas nucleares
 
-Aplicación de demostración que soporta operaciones básicas de un modelo de datos: alta, baja y modificación.
+Aplicación de demostración que soporta operaciones básicas de un modelo de datos: alta, baja, modificación y detalle.
 
 ## Installación
 1. Clonar repositorio via https.
